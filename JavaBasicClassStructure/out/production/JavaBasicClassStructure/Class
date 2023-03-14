@@ -1,0 +1,5 @@
+In Java Classes are basic building blocks.
+When defining class we are describing all characteristics of the class
+Class has two main elements: i) Fields/ Variables  ii) Functions/ Methods
+Variables hol state of our application
+Methods are operations that we can call

@@ -1,0 +1,10 @@
+A package in Java is used to group related classes.
+Think of it as a folder in a file directory.
+We use packages to avoid name conflicts, and to write a better maintainable code.
+Packages are divided into two categories: i) Build-in   ii) User-Defined
+
+--Build-in Packages--
+    --> The Java API is a library of prewritten classes, that are free to use, included in the Java Development Environment.
+
+--User Defined Packages--
+    --> To create your own package, you need to understand that Java uses a file system directory to store them.
